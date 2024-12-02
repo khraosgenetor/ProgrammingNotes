@@ -36,45 +36,17 @@
             }
           },
           {
-            "id": "639e199d2669dfaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Pre-requisites For C"
-            }
-          },
-          {
-            "id": "1e7dddae46ff33b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Pre-requisites For C"
-            }
-          },
-          {
             "id": "acfd87e53d02b422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Reqs/C/1.2 NeoVim.md",
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 NeoVim"
+              "title": "1. Pre-requisites For C"
             }
           },
           {
@@ -90,23 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "da9eb3bb40356d2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3e63dcbd8304b71",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,13 +185,33 @@
               "icon": "lucide-list",
               "title": "Outline of 1. Pre-requisites For C"
             }
+          },
+          {
+            "id": "e0d4195da01dc268",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "65aa864e955666d4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,17 +220,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35500d7052fe52ec",
+  "active": "65aa864e955666d4",
   "lastOpenFiles": [
+    "Pre-Reqs/C/1.2 NeoVim.md",
+    "Untitled",
+    "Excalidraw/Drawing 2024-12-02 11.43.18.excalidraw.md",
+    "Excalidraw",
+    "smart-chats/UNTITLED CHAT 2024-12-02 06 07 11.md",
+    "smart-chats",
     "Pre-Reqs/C/1.1 VS Code.md",
+    "README.md",
     "Pre-Reqs/C/1. Pre-requisites For C.md",
     "Pre-Reqs/C",
     "C/1. Why C.md",
     "Pre-Reqs",
-    "Pre-Reqs/C/1.2 NeoVim.md",
     "C/Images/1.2 NeoVim",
     "C/Images/1.2 NeoVim/Pasted image 20241202111953.png",
     "C/Images/1.1 VS Code/{000E51CD-651A-45EE-A711-29A707343170}.png",
