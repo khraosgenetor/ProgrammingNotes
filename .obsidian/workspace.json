@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "2dc977700aa90343",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98179f319fe32c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dc8c440c8f35240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/2. Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Hello World!"
+            }
+          },
+          {
+            "id": "7129ecad6282f2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/2. Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Hello World!"
+            }
+          },
+          {
+            "id": "639e199d2669dfaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Pre-requisites For C"
+            }
+          },
+          {
+            "id": "1e7dddae46ff33b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Pre-requisites For C"
+            }
+          },
+          {
+            "id": "acfd87e53d02b422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Reqs/C/1.2 NeoVim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 NeoVim"
+            }
+          },
+          {
+            "id": "f75af196c2eb1645",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "C/Images/1.1 VS Code/{000E51CD-651A-45EE-A711-29A707343170}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{000E51CD-651A-45EE-A711-29A707343170}"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "da9eb3bb40356d2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e63dcbd8304b71",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21c074164ce1543c",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b27ed5bc38a985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35500d7052fe52ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e64e0e5a171828d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62e1966e019672ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "480cb33680ca9b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ccbeea152c97a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff7d8b341eec433",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Pre-requisites For C"
+            }
+          },
+          {
+            "id": "f67adbf1c3e922a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Pre-requisites For C"
+            }
+          },
+          {
+            "id": "4c05e88437745808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e26dbb02966008d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pre-Reqs/C/1. Pre-requisites For C.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Pre-requisites For C"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35500d7052fe52ec",
+  "lastOpenFiles": [
+    "Pre-Reqs/C/1.1 VS Code.md",
+    "Pre-Reqs/C/1. Pre-requisites For C.md",
+    "Pre-Reqs/C",
+    "C/1. Why C.md",
+    "Pre-Reqs",
+    "Pre-Reqs/C/1.2 NeoVim.md",
+    "C/Images/1.2 NeoVim",
+    "C/Images/1.2 NeoVim/Pasted image 20241202111953.png",
+    "C/Images/1.1 VS Code/{000E51CD-651A-45EE-A711-29A707343170}.png",
+    "C/Images/1.1 VS Code/{9727C1B6-F611-4CC6-8221-394BAB926424}.png",
+    "C/Images/1.1 VS Code/{7B57540E-E3CF-400C-8FB4-7B0887CD3DE4}.png",
+    "C/Images/1.1 VS Code/{4F4EEBD4-6894-41BF-9A88-591ACC9564AC}.png",
+    "C/Images/1.1 VS Code",
+    "C/Images",
+    "C/Images/1.1 VS Code/{59983CF4-9316-4AAE-B954-0A23DDA22C86}.png",
+    "C/Images/1.1 VS Code/{7B7BC540-2B33-4B05-83AB-68BCEC07E6CF}.png",
+    "C/Images/1.1 VS Code/{BBB3B45B-8079-4102-BEF4-C3654C35C9F1}.png",
+    "C/Images/1.1 VS Code/{CDD08365-E14F-4ADB-B54C-F1DBBCD802F6}.png",
+    "Pre-Reqs/C/1.3 MinGW.md",
+    "C/2. Hello World!.md",
+    "Welcome.md",
+    "C"
+  ]
+}
