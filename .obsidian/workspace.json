@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Reqs/1.1 VS Code.md",
+                "file": "C/0. Author's Notes/0.1 Syllabus.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 VS Code"
+              "title": "0.1 Syllabus"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-Reqs/1.1 VS Code.md"
+                "file": "C/0. Author's Notes/0.1 Syllabus.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.1 VS Code"
+              "title": "Outline of 0.1 Syllabus"
             }
           },
           {
@@ -187,8 +187,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "610be6ca25d5095d",
+  "active": "35500d7052fe52ec",
   "lastOpenFiles": [
+    "Pre-Reqs/1.1 VS Code.md",
     "Pre-Reqs/C/1. Pre-requisites For C.md",
     "C/1. C Programming Fundamentals/1.1 Introduction to C.md",
     "C/0. Author's Notes/0.1 Syllabus.md",
@@ -213,7 +214,6 @@
     "C/0. Author's Notes",
     "C/1. C Programming Fundamentals",
     "Pre-Reqs/1.2 NeoVim.md",
-    "Pre-Reqs/1.1 VS Code.md",
     "Pre-Reqs/C/1.3 MinGW.md",
     "smart-chats/UNTITLED CHAT 2024-12-03 08 34 22.md",
     "smart-chats/UNTITLED CHAT 2024-12-03 08 32 55.md",
@@ -222,17 +222,17 @@
     "Excalidraw",
     "Pre-Reqs/C",
     "Pre-Reqs",
-    "C/Images/1.2 NeoVim",
-    "C/Images/1.2 NeoVim/Pasted image 20241202111953.png",
-    "C/Images/1.1 VS Code/{000E51CD-651A-45EE-A711-29A707343170}.png",
-    "C/Images/1.1 VS Code/{9727C1B6-F611-4CC6-8221-394BAB926424}.png",
-    "C/Images/1.1 VS Code/{7B57540E-E3CF-400C-8FB4-7B0887CD3DE4}.png",
-    "C/Images/1.1 VS Code/{4F4EEBD4-6894-41BF-9A88-591ACC9564AC}.png",
-    "C/Images/1.1 VS Code",
-    "C/Images",
-    "C/Images/1.1 VS Code/{59983CF4-9316-4AAE-B954-0A23DDA22C86}.png",
-    "C/Images/1.1 VS Code/{7B7BC540-2B33-4B05-83AB-68BCEC07E6CF}.png",
-    "C/Images/1.1 VS Code/{BBB3B45B-8079-4102-BEF4-C3654C35C9F1}.png",
-    "C/Images/1.1 VS Code/{CDD08365-E14F-4ADB-B54C-F1DBBCD802F6}.png"
+    "Pre-Reqs/Images/1.2 NeoVim",
+    "Pre-Reqs/Images/1.2 NeoVim/Pasted image 20241202111953.png",
+    "Pre-Reqs/Images/1.1 VS Code/{000E51CD-651A-45EE-A711-29A707343170}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{9727C1B6-F611-4CC6-8221-394BAB926424}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{7B57540E-E3CF-400C-8FB4-7B0887CD3DE4}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{4F4EEBD4-6894-41BF-9A88-591ACC9564AC}.png",
+    "Pre-Reqs/Images/1.1 VS Code",
+    "Pre-Reqs/Images",
+    "Pre-Reqs/Images/1.1 VS Code/{59983CF4-9316-4AAE-B954-0A23DDA22C86}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{7B7BC540-2B33-4B05-83AB-68BCEC07E6CF}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{BBB3B45B-8079-4102-BEF4-C3654C35C9F1}.png",
+    "Pre-Reqs/Images/1.1 VS Code/{CDD08365-E14F-4ADB-B54C-F1DBBCD802F6}.png"
   ]
 }
