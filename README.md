@@ -9,6 +9,7 @@ To read effectively, use ``Obsidian.md`` to review them, then the notes will bec
 ### Everything related to: C
 
 Refer to [My C Programs Repo](https://github.com/khraosgenetor/CPrograms) for all programs associated with C.
+
 Refer to [[0.1 Syllabus For C]] for, well, Syllabus for C
 
 #### The Mind Map for C is:
@@ -17,6 +18,7 @@ Refer to [[0.1 Syllabus For C]] for, well, Syllabus for C
 ### Everything related to: C
 
 Refer to [My ASM Programs Repo](https://github.com/khraosgenetor/ASMPrograms) for all programs associated with ASM.
+
 Refer to [[0.1 Syllabus for Assembly]] for, well, Syllabus for Assembly
 
 #### The Mind Map for ASM is:

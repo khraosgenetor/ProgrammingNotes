@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements/Requirements for C.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requirements for C"
+              "title": "README"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements/Requirements for C.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements for C"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirements/Requirements for C.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Requirements for C"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirements/Requirements for C.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Requirements for C"
+              "title": "Outline of README"
             }
           },
           {
@@ -241,6 +241,7 @@
   },
   "active": "3f2d8e67f6fa5382",
   "lastOpenFiles": [
+    "Requirements/Requirements for C.md",
     "Requirements/1.1 VS Code.md",
     "Requirements/Images/1.1 VS Code/{CDD08365-E14F-4ADB-B54C-F1DBBCD802F6}.png",
     "Requirements/Images/1.1 VS Code/{BBB3B45B-8079-4102-BEF4-C3654C35C9F1}.png",
@@ -268,7 +269,6 @@
     "C/03. Advanced C Programming Concepts/3.2 Unions.md",
     "C/03. Advanced C Programming Concepts/3.1 Structs.md",
     "C/01. C Programming Fundamentals/1.7 Arrays.md",
-    "Requirements/Requirements for C.md",
     "Requirements/1.2 NeoVim.md",
     "C/12. Emulator Setup and Usage/12.1 QEMU.md",
     "C/13. Final Advanced Topics/13.3 Security and Protection.md",
